@@ -21,6 +21,7 @@ int main(){
 
         if(t==NULL){
             printf("\nHeap is Full");
+            // As all the data is stored in heap dynamically
             break;
         }
         else{
